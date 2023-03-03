@@ -1,6 +1,6 @@
 # JPEG-compression
 
-A Matlab implementation of the JPEG image compression format (e.g. .jpg files). Note that this project only implements the compression part and doesn't implement any kind of entropy encoding at all (such as Huffman). Also, note that the code does compression only for grayscale images.
+A Matlab implementation of the JPEG image compression format (.jpg files). Note that this project only implements the compression part and doesn't implement any kind of entropy encoding at all (such as Huffman). Also, note that the code does compression only for grayscale images.
 
 The code produces following results:
 ![](results/result.png)
